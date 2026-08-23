@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expense",
+  "description": "A feature-rich daily expense tracker in Bengali & English, featuring offline backup, biometric secure login, analytics, and direct Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
